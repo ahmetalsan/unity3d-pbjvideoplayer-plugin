@@ -1,0 +1,2 @@
+@interface CoreVideoPlayerWrapper : NSObject
+@end
